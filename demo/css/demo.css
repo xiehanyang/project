@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+html{
+    font-size: 12px;
+}
+body{
+    height: 100%;
+}
+.box{
+    width: 79.58rem;
+    height: 48.33rem;
+    background: #F2F3F8;
+    border: 0.1rem solid;
+    margin: auto;
+}
+.header{
+    width: 79.58rem;
+    height: 2.25rem;
+    background: #FFFFFF;
+    line-height: 2.25rem;
+}
+.header img{
+    width: 1.33rem;
+    height: 1.25rem;
+    margin-left: 1.2rem;
+    margin-top: 0.4rem;
+}
+.header a{
+    width: 5.83rem;
+    height: 1.17rem;
+    font-size: 1.17rem;
+    font-family: PingFang-SC-Bold, PingFang-SC;
+    font-weight: bold;
+    color: #009307;
+    line-height: 1.17rem;
+}
